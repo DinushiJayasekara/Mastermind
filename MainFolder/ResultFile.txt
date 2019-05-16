@@ -1,0 +1,223 @@
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+Try No: 1
+Guess: NOT VALID
+Result: NO RESULT
+
+PLEASE ENTER VALUES BETWEEN 1 AND 6 FOR ALL DIGITS...
+
+Try No: 2
+Guess: 1 2 3 4
+Result: 1000
+
+Try No: 3
+Guess: 4 3 2 1
+Result: 0001
+
+Try No: 4
+Guess: 1 2 2 3
+Result: 0001
+
+Try No: 5
+Guess: 3 1 4 2
+Result: 0011
+
+Try No: 6
+Guess: 3 3 4 2
+Result: 1110
+
+Try No: 7
+Guess: 3 4 3 2
+Result: 0001
+
+Try No: 8
+Guess: 3 3 2 4
+Result: 0001
+
+OOPS... YOU HAVE RUN OUT OF TRIES!
+
+The correct code is 1 3 4 2
+----------------------------------------------------------
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+Try No: 1
+Guess: 1 2 3 4
+Result: 0.0.
+
+Try No: 2
+Guess: 4 3 5 6
+Result: 1.1.
+
+Try No: 3
+Guess: 4 3 2 2
+Result: .110
+
+Try No: 4
+Guess: 4 3 1 1
+Result: .1..
+
+Try No: 5
+Guess: 4 2 5 6
+Result: 01..
+
+Try No: 6
+Guess: 4 3 6 5
+Result: .0.1
+
+Try No: 7
+Guess: 4 3 1 2
+Result: 0.1.
+
+STARTING NEW GAME AS PER USER'S REQUEST...
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+Try No: 1
+Guess: 1 2 3 4
+Result: 1..1
+
+Try No: 2
+Guess: 1 5 6 2
+Result: ..01
+
+Try No: 3
+Guess: 3 4 5 6
+Result: .00.
+
+Try No: 4
+Guess: 1 2 5 6
+Result: .01.
+
+Try No: 5
+Guess: 2 3 4 5
+Result: .01.
+
+Try No: 6
+Guess: 6 2 1 3
+Result: 00..
+
+Try No: 7
+Guess: NOT VALID
+Result: NO RESULT
+
+PLEASE ENTER VALUES BETWEEN 1 AND 6 FOR ALL DIGITS...
+
+STARTING NEW GAME AS PER USER'S REQUEST...
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+USER ENTERED 0000 AS GUESS...
+
+QUITTING GAME AS PER USER'S REQUEST.
+----------------------------------------------------------
+
+Try No: 8
+Guess: 1 2 3 4
+Result: .11.
+
+OOPS... YOU HAVE RUN OUT OF TRIES!
+
+The correct code is 1 1 3 5
+----------------------------------------------------------
+----------------------------------------------------------
+
+Try No: 8
+Guess: 4 3 5 6
+Result: ..11
+
+OOPS... YOU HAVE RUN OUT OF TRIES!
+
+The correct code is 2 3 2 6
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+Try No: 1
+Guess: 1 2 3 5
+Result: ..00
+
+USER ENTERED 0000 AS GUESS...
+
+QUITTING GAME AS PER USER'S REQUEST.
+----------------------------------------------------------
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+Try No: 1
+Guess: NOT VALID
+Result: NO RESULT
+
+PLEASE ENTER VALUES BETWEEN 1 AND 6 FOR ALL DIGITS...
+
+Try No: 2
+Guess: 2 5 6 4
+Result: .000
+
+Try No: 3
+Guess: NOT VALID
+Result: NO RESULT
+
+PLEASE ENTER VALUES BETWEEN 1 AND 6 FOR ALL DIGITS...
+
+Try No: 4
+Guess: NOT VALID
+Result: NO RESULT
+
+PLEASE ENTER VALUES BETWEEN 1 AND 6 FOR ALL DIGITS...
+
+USER ENTERED 0000 AS GUESS...
+
+QUITTING GAME AS PER USER'S REQUEST.
+----------------------------------------------------------
+----------------------------------------------------------
+			MASTERMIND
+
+Number to Guess - XXXX			Colour Mapping:
+					1-White  2-Blue  3-Red
+					4-Yellow  5-Green  6-Purple
+
+Try No: 1
+Guess: 1 1 2 3
+Result: ..11
+
+Try No: 2
+Guess: 1 1 4 5
+Result: 1.11
+
+Try No: 3
+Guess: 1 1 3 5
+Result: 1.1.
+
+CONGRATULATIONS!!!!! YOU HAVE WON THE GAME...
+
+YOUR GUESS 1 1 4 6  WAS CORRECT!
+
+QUITTING GAME AS PER USER'S REQUEST...
+----------------------------------------------------------
